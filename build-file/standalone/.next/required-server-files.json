@@ -100,7 +100,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "D:\\10ms\\nextjs-15-starter-tailwind",
+    "outputFileTracingRoot": "D:\\10ms\\dev-file",
     "experimental": {
       "useSkewCookie": false,
       "nodeMiddleware": false,
@@ -291,10 +291,10 @@
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.ts",
     "turbopack": {
-      "root": "D:\\10ms\\nextjs-15-starter-tailwind"
+      "root": "D:\\10ms\\dev-file"
     }
   },
-  "appDir": "D:\\10ms\\nextjs-15-starter-tailwind",
+  "appDir": "D:\\10ms\\dev-file",
   "relativeAppDir": "",
   "files": [
     ".next\\routes-manifest.json",
